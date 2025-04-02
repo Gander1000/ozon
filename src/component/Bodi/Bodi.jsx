@@ -9,7 +9,7 @@ function Bodi () {
     return(
         <section className={scss.Bodi}>
             <div className={scss.conteiner}>
-                <h1>This Headline is The <br /> Gist Of The Your <br /> Whole Website </h1>
+                <h1>This Headline is The <br /> Gist Of The Your i<br /> Whole Website </h1>
                 <span>And the description of hero section is follow up <br /> message after the punch of a great headline. So,<br /> make it short, simple, descriptive and to the point.</span>
                 <div className={scss.cnopi}>
                     <button>Book A Meeting<img src={Ct} alt="" /></button>
