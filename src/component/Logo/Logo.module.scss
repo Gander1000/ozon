@@ -1,0 +1,65 @@
+
+.Logo{
+    padding: 10%;
+
+
+    .conteiner{
+        padding: 5%;
+        position: relative;
+        background-color: #E7EBFC;
+        display: flex;
+
+        .Title{
+            display: flex;
+            padding: 50px;
+            flex-direction: column;
+            gap: 30px;
+
+            h1{
+                font-size: 50px;
+                font-weight: bold;
+            }
+
+            span{
+                font-size: 45px;
+                color: #1E1E1E;
+            }
+
+            h2{
+                font-size: 35px;
+                color: #B4B4B4;
+                font-weight: bold;
+            }
+
+            a{
+                display: flex;
+                gap: 10px;
+                font-size: 18px;
+                font-weight: 500;
+                text-decoration: none;
+                color: #2E4FD7;
+
+                img{
+                  width: 23px;
+                }
+            }
+
+            .Tx{
+                max-width: 35px;
+            }
+
+        }
+
+            .Women{
+                position: absolute;
+                max-width: 376px;
+                left: 69%;
+                top: 18%;
+            }
+        
+    }
+
+    
+
+
+}

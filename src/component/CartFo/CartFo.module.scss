@@ -1,0 +1,49 @@
+
+.CartFo{
+    padding: 100px 20px;
+
+
+    h1{
+        font-size: 50px;
+        font-weight: bold;
+        padding: 10px;
+        padding-left: 240px;
+
+    }
+
+    .conteiner{
+        display: flex;
+        flex-wrap: wrap;
+        padding: 10px 200px;
+
+        .Carta{
+            display: flex;
+            gap: 30px;
+            padding: 30px;
+            max-width: 470px;
+
+
+            img{
+                max-width: 60px;
+                padding-bottom: 20px;
+            }
+
+            .title{
+                display: flex;
+                flex-direction: column;
+                gap: 9px;
+
+                h2{
+                    font-size: 24px;
+                    font-weight: bold;
+                }
+
+                span{
+                    color: #18191F;
+                    line-height: 1.4;
+                }
+
+            }
+        }
+    }
+}

@@ -1,0 +1,50 @@
+
+
+.Heder{
+    display: flex;
+    gap: 20px;
+    padding: 23px 30px;
+    align-items: center;
+
+    .img{
+        padding-left: 90px;
+    }
+
+
+    .adres{
+        display: flex;
+        gap: 30px;
+        align-items: center;
+        padding-left: 40px;
+        a{
+            color: #191919;
+            text-decoration: none;
+            font-size: 17px;
+
+            &:hover{
+                color: #969696;
+            }
+        }
+    }
+
+    button{
+        display: inline-flex;
+        margin-top: 10px;
+        letter-spacing: 1px;
+        font-size: 13px;
+        gap: 10px;
+        max-height: 30px;
+        padding: 7px 15px;
+        margin-left: 500px;
+        background-color: #2E4FD7;
+        color: #FFFFFF;
+        border: none;
+        align-items: center;
+        transition:  background-color 0.4s;
+
+        &:hover{
+            background-color: #46BA71;
+        }
+
+    }
+}
