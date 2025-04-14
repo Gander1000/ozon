@@ -1,7 +1,7 @@
 import scss from "./Bodi.module.scss";
 import Ct from "../../assets/Longright.svg";
 import Women from "../../assets/Women.svg";
-import A from "../../assets/logo_a.svg";
+import A from "../../assets/Logo_a.svg";
 import B from "../../assets/Logo_b.svg";
 import D from "../../assets/Logo_d.svg";
 
